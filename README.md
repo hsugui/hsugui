@@ -1,11 +1,4 @@
-# 🐱‍🏍 Servus! 🐱‍💻
-
-#### In case you wanna make me happy...
-<div style="display: inline"><br>
-  <img align="center" alt="Bitcoin Address" width="25" src="https://image.flaticon.com/icons/png/512/1490/1490900.png"> : bc1qrezjhtn9xnv0j4jfs84wvkh5a2fvaexwh5akns
-  <br><br>
-  <img align="center" alt="Ethereum Address" width="25" src="https://image.flaticon.com/icons/png/512/2794/2794125.png"> : 0xfF766251f0Fb1a898E779E165168337bBdb61a21
-</div>
+# 🐱‍🏍 Servus =) 🐱‍💻
 
 ##
 <br>
