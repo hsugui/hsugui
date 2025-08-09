@@ -1,4 +1,4 @@
-# 🐱‍👤 About me 🐱‍💻
+# 👨🏻‍💻 About me ☕
 
 <p>Software Engineer, Team Leader, and Project Leader on a global team. Leads the development and maintenance of monitoring and observability solutions with a focus on cost savings, toil reduction, and customer satisfaction. Also leads parallel, innovative, and award-winning projects focused on AI.</p>
 <p>Applies core Site Reliability Engineering (SRE) principles and Agile methodologies to deliver exceptional value to clients, using a diverse range of technologies, frameworks, and programming languages, including Java, Go, JavaScript, Shell Script, WebSphere, Db2, MySQL, PostgreSQL, Cloud computing, SaaS, Instana, InfluxDB, Telegraf, Grafana, GitHub, Scrum, among others.</p>
