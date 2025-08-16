@@ -24,3 +24,11 @@
   <a href="https://soraitech.com/artigos-tecnicos/" target="blank"><img src="https://img.shields.io/badge/Sorai_Tech-6C53C9?style=for-the-badge" target="_blank"></a>
   <a href="https://hens.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <br>
+
+## Buy me a coffee
+**Scan the QR code to contribute and help keep the content running:**
+
+<img width="300" height="300" alt="btc_qrcode" src="https://github.com/user-attachments/assets/5bcfc083-e290-4084-a72f-b122b79da7b5" />
+<br><br>
+
+**Or copy the BTC (₿) address:** bc1qut6ucgf6c88v6z8qhzu767dpnzuectytqdk8j9
