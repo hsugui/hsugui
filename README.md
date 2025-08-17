@@ -17,16 +17,17 @@ Applies core **Site Reliability Engineering (SRE)** principles and **Agile metho
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
   
-## Check out my other media
+## Get in Touch
 <p>You will find a collection of articles and tutorials covering technology, programming and culture.</p>
 
 <span>
   <a href="https://www.linkedin.com/in/hsuguihura/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://soraitech.com/artigos-tecnicos/" target="blank"><img src="https://img.shields.io/badge/Sorai_Tech-6C53C9?style=for-the-badge" target="_blank"></a>
+  <a href="https://soraitech.com/" target="blank"><img src="https://img.shields.io/badge/Sorai_Tech-6C53C9?style=for-the-badge" target="_blank"></a>
   <a href="https://hens.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-<br>
+<br><br>
+Or email me: henrique@soraitech.com
 
-## Buy me a coffee
+## Buy me a Coffee
 **Scan the QR code to contribute and help keep the content running:**
 
 <img width="300" height="300" alt="btc_qrcode" src="https://github.com/user-attachments/assets/5bcfc083-e290-4084-a72f-b122b79da7b5" />
