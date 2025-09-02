@@ -25,12 +25,15 @@ Applies core **Site Reliability Engineering (SRE)** principles and **Agile metho
   <a href="https://soraitech.com/" target="blank"><img src="https://img.shields.io/badge/Sorai_Tech-6C53C9?style=for-the-badge" target="_blank"></a>
   <a href="https://hens.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <br><br>
-Or email me: henrique@soraitech.com
+Or email me: [henrique@soraitech.com](henrique@soraitech.com)
 
 ## Buy me a Coffee
-**Scan the QR code to contribute and help keep the content running:**
-
+### On-chain
 <img width="300" height="300" alt="btc_qrcode" src="https://github.com/user-attachments/assets/5bcfc083-e290-4084-a72f-b122b79da7b5" />
-<br><br>
 
-**Or copy the BTC (₿) address:** bc1qut6ucgf6c88v6z8qhzu767dpnzuectytqdk8j9
+**₿:** `bc1qut6ucgf6c88v6z8qhzu767dpnzuectytqdk8j9`
+
+### Lightning
+<img width="300" height="300" alt="lightning_qrcode" src="https://github.com/user-attachments/assets/3c23b285-07eb-46c8-b625-df4dcf822eb8" />
+
+**⚡:** `meanknight53@walletofsatoshi.com`
