@@ -1,4 +1,4 @@
-# 👨🏻‍💻 About me ☕
+# 👨🏻‍💻 About me
 
 **Software Engineer**, **Team Leader**, and **Project Leader** on a **global team**. Leads the development and maintenance of monitoring and observability solutions with a focus on **cost savings**, **toil reduction**, and **customer satisfaction**. Also leads parallel, innovative, and **award-winning projects focused on AI**.
 
@@ -6,7 +6,7 @@ Applies core **Site Reliability Engineering (SRE)** principles and **Agile metho
 
 EU citizenship (Italian).
 
-## Key Strengths
+## 🛠️ Key Strengths
 - **Problem Solving:** Resolves critical production issues with precision, leveraging strong reasoning skills, attention to detail, and structured problem-solving.
 - **Code Refactoring, Algorithms & Debugging:** Improves system performance and scalability through clean code refactoring and by applying algorithmic thinking and debugging techniques in backend services.
 - **Testing & Quality Assurance:** Designs and executes robust testing strategies to ensure reliability, scalability, and resilience in production systems.
@@ -21,7 +21,7 @@ EU citizenship (Italian).
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
   
-## Get in Touch
+## 📩 Get in Touch
 <p>You will find a collection of articles and tutorials covering technology, programming and culture.</p>
 
 <span>
@@ -32,7 +32,7 @@ EU citizenship (Italian).
   
 Or email me: henrique@soraitech.com
 
-## Buy me a Coffee
+## ☕ Buy me a Coffee
 ### On-chain
 <img width="300" height="300" alt="btc_qrcode" src="https://github.com/user-attachments/assets/5bcfc083-e290-4084-a72f-b122b79da7b5" />
 
