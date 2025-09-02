@@ -25,7 +25,7 @@ Applies core **Site Reliability Engineering (SRE)** principles and **Agile metho
   <a href="https://soraitech.com/" target="blank"><img src="https://img.shields.io/badge/Sorai_Tech-6C53C9?style=for-the-badge" target="_blank"></a>
   <a href="https://hens.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <br><br>
-Or email me: [henrique@soraitech.com](henrique@soraitech.com)
+Or email me: henrique@soraitech.com
 
 ## Buy me a Coffee
 ### On-chain
