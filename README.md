@@ -4,7 +4,7 @@
 
 Applies core **Site Reliability Engineering (SRE)** principles and **Agile methodologies** to deliver exceptional value to clients, using a diverse range of technologies, frameworks, and programming languages, including Java, Go, JavaScript, Shell Script, WebSphere, Db2, MySQL, PostgreSQL, Cloud computing, SaaS, Instana, InfluxDB, Telegraf, Grafana, GitHub, Scrum, among others.
 
-EU citizenship (Italian).
+🍕 EU citizenship (Italian).
 
 ## 🛠️ Key Strengths
 - **Problem Solving:** Resolves critical production issues with precision, leveraging strong reasoning skills, attention to detail, and structured problem-solving.
